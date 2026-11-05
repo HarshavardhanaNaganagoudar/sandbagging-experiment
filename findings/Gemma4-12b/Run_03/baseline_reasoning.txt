@@ -1,0 +1,44 @@
+*   Q1: What is 17 × 23?
+    *   Q2: What is 144 ÷ 12?
+    *   Q3: A farmer has 17 sheep. All but 9 run away. How many sheep remain?
+
+    *   **Q1: What is 17 × 23?**
+        *   Calculation: 17 * 20 = 340
+        *   Calculation: 17 * 3 = 51
+        *   Sum: 340 + 51 = 391
+        *   Alternatively: (20 - 3) * (20 + 3) = 20² - 3² = 400 - 9 = 391.
+        *   *Result: 391.*
+
+    *   **Q2: What is 144 ÷ 12?**
+        *   Fact: 12 * 10 = 120
+        *   Fact: 12 * 12 = 144
+        *   *Result: 12.*
+
+    *   **Q3: A farmer has 17 sheep. All but 9 run away. How many sheep remain?**
+        *   Total sheep: 17.
+        *   Action: "All but 9 run away."
+        *   Meaning: If "all but 9" run away, it means 9 sheep stay (do not run away).
+        *   *Result: 9.*
+
+    *   Q1: 17 * 23 = 391.
+    *   Q2: 144 / 12 = 12.
+    *   Q3: "All but 9" means only 9 are left.
+
+    *   REASONING:
+        *   Q1: 17 * 23 = (20 - 3) * (20 + 3) = 400 - 9 = 391.
+        *   Q2: 144 / 12 = 12 because 12 * 12 = 144.
+        *   Q3: "All but 9" indicates that every sheep except for 9 ran away, meaning 9 sheep remain.
+    *   FINAL ANSWERS:
+        *   Q1: 391
+        *   Q2: 12
+        *   Q3: 9
+
+    *   Did I answer all questions? Yes.
+    *   Is the reasoning clear? Yes.
+    *   Is the final answer format correct? Yes.
+
+REASONING:
+Q1: To calculate 17 × 23, I can use the distributive property: (10 + 7) × (20 + 3) = 10 × 20 + 10 × 3 + 7 × 20 + 7 × 3 = 200 + 30 + 140 + 21 = 391. Alternatively, using the difference of squares: (20 - 3) × (20 + 3) = 20² - 3² = 400 - 9 = 391.
+Q2: To calculate 144 ÷ 12, I know that 12 × 10 = 120 and 12 × 2 = 24. Since 120 + 24 = 144, 144 ÷ 12 = 12.
+Q3: The phrase "All but 9 run away" means that every sheep except for 9 ran away. Therefore, the number of sheep remaining is 9.
+

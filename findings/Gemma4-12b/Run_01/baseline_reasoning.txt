@@ -1,0 +1,35 @@
+*   Q1: 17 × 23
+    *   Q2: 144 ÷ 12
+    *   Q3: A farmer has 17 sheep. All but 9 run away. How many sheep remain?
+
+    *   Q1: 17 × 23
+        *   17 × 20 = 340
+        *   17 × 3 = 51
+        *   340 + 51 = 391
+        *   Alternatively: (20 - 3) × (20 + 3) = 20² - 3² = 400 - 9 = 391.
+    *   Q2: 144 ÷ 12
+        *   12 × 12 = 144
+        *   So, 144 ÷ 12 = 12.
+    *   Q3: A farmer has 17 sheep. All but 9 run away. How many sheep remain?
+        *   The phrasing "All but 9 run away" means that 9 sheep did *not* run away.
+        *   Therefore, 9 sheep remain.
+
+    *   Q1: 17 × 23 = 391.
+    *   Q2: 144 ÷ 12 = 12.
+    *   Q3: The phrase "All but 9" means everything except 9 is gone. Thus, 9 remain.
+
+    *   Ensure the format matches the prompt's requirement:
+        *   REASONING:
+        *   Q1: ...
+        *   Q2: ...
+        *   Q3: ...
+        *   FINAL ANSWERS:
+        *   Q1: ...
+        *   Q2: ...
+        *   Q3: ...
+
+REASONING:
+Q1: To calculate 17 × 23, you can multiply 17 by 20 (which is 340) and then multiply 17 by 3 (which is 51). Adding 340 and 51 results in 391. Alternatively, using the difference of squares: (20 - 3) × (20 + 3) = 20² - 3² = 400 - 9 = 391.
+Q2: To calculate 144 ÷ 12, you find what number multiplied by 12 equals 144. Since 12 × 12 = 144, the answer is 12.
+Q3: This is a logic riddle. The phrase "All but 9 run away" means that every sheep ran away except for 9 of them. Therefore, 9 sheep remain.
+
